@@ -345,11 +345,15 @@ This project teaches:
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
-**Ram Mijar**
+### **Ram Mijar**
 - 🌐 Website: [https://www.rammijar.com.np/](https://www.rammijar.com.np/)
 - 💻 GitHub: [https://github.com/rammijar](https://github.com/rammijar)
+
+### **Raj K.C**
+- 🌐 Website: [https://www.kcraj.com.np/](https://www.kcraj.com.np/)
+- 💻 GitHub: [https://github.com/rajkc2024](https://github.com/rajkc2024)
 
 Made with ❤️ for education
 
