@@ -344,18 +344,13 @@ This project teaches:
 - ✅ MVC architecture basics
 
 ---
-## 🤝 Contributors
+ ## Contributors
 
-<div align="center">
+Thanks goes to these wonderful people:
 
-| | |
-| :---: | :---: |
-| <img src="https://github.com/rammijar.png" width="60" height="60" style="border-radius:50%"> <br> **[@rammijar](https://github.com/rammijar)** <br> [🌐 Website](https://www.rammijar.com.np/) | <img src="https://github.com/rajkc2024.png" width="60" height="60" style="border-radius:50%"> <br> **[@rajkc2024](https://github.com/rajkc2024)** <br> [🌐 Website](https://www.kcraj.com.np/) |
-
-<br>
-<sub>Made with ❤️</sub>
-
-</div>
+<a href="https://github.com/rammijar/Chatex/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rammijar/Chatex" />
+</a>
 ---
 
 ## 📝 License
