@@ -344,23 +344,36 @@ This project teaches:
 - ✅ MVC architecture basics
 
 ---
-## 👨‍💻 Contributors
+## 👥 Contributors
 
-<p>
-  <img src="https://github.com/rammijar.png" width="38" style="border-radius:50%; vertical-align:middle;" />
-  <a href="https://github.com/rammijar"><strong>Ram Mijar</strong></a>
-  <a href="https://www.rammijar.com.np/">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat-square" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rammijar">
+        <img src="https://github.com/rammijar.png?size=40" width="40" style="border-radius: 50%;" alt="Ram Mijar"/>
+      </a>
+      <br />
+      <b><a href="https://github.com/rammijar">Ram Mijar</a></b>
+      <br />
+      <a href="https://www.rammijar.com.np/">
+        <img src="https://img.shields.io/badge/🌐_website-000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rajkc2024">
+        <img src="https://github.com/rajkc2024.png?size=40" width="40" style="border-radius: 50%;" alt="Raj K.C"/>
+      </a>
+      <br />
+      <b><a href="https://github.com/rajkc2024">Raj K.C</a></b>
+      <br />
+      <a href="https://www.kcraj.com.np/">
+        <img src="https://img.shields.io/badge/🌐_website-000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://github.com/rajkc2024.png" width="38" style="border-radius:50%; vertical-align:middle;" />
-  <a href="https://github.com/rajkc2024"><strong>Raj K.C</strong></a>
-  <a href="https://www.kcraj.com.np/">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat-square" />
-  </a>
-</p>
+<p align="center">Made with ❤️</p>
 
 ---
 
