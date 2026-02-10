@@ -345,16 +345,31 @@ This project teaches:
 
 ---
 
-## 👨‍💻 Developers
+## 👨‍💻 Contributors
 
-### **Ram Mijar**
-- 🌐 Website: [https://www.rammijar.com.np/](https://www.rammijar.com.np/)
-- 💻 GitHub: [https://github.com/rammijar](https://github.com/rammijar)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rammijar">
+        <img src="https://github.com/rammijar.png" width="90px" style="border-radius:50%;" alt="Ram Mijar"/>
+        <br />
+        <sub><b>Ram Mijar</b></sub>
+      </a>
+      <br />
+      <a href="https://www.rammijar.com.np/">🌐</a>
+    </td>
 
-### **Raj K.C**
-- 🌐 Website: [https://www.kcraj.com.np/](https://www.kcraj.com.np/)
-- 💻 GitHub: [https://github.com/rajkc2024](https://github.com/rajkc2024)
-
+    <td align="center">
+      <a href="https://github.com/rajkc2024">
+        <img src="https://github.com/rajkc2024.png" width="90px" style="border-radius:50%;" alt="Raj K.C"/>
+        <br />
+        <sub><b>Raj K.C</b></sub>
+      </a>
+      <br />
+      <a href="https://www.kcraj.com.np/">🌐</a>
+    </td>
+  </tr>
+</table>
 Made with ❤️ for education
 
 ---
