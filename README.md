@@ -344,27 +344,10 @@ This project teaches:
 - ✅ MVC architecture basics
 
 ---
+ ## 👨‍💻 Contributors
 
-
-    ## 👨‍💻 Contributors
-
-<p>
-  <img src="https://github.com/rammijar.png" width="40" style="border-radius:50%; vertical-align:middle;" />
-  <a href="https://github.com/rammijar"><b>Ram Mijar</b></a>
-  <a href="https://www.rammijar.com.np/">
-    <img src="https://img.shields.io/badge/Website-blue?style=flat-square" />
-  </a>
-</p>
-
-<p>
-  <img src="https://github.com/rajkc2024.png" width="40" style="border-radius:50%; vertical-align:middle;" />
-  <a href="https://github.com/rajkc2024"><b>Raj K.C</b></a>
-  <a href="https://www.kcraj.com.np/">
-    <img src="https://img.shields.io/badge/Website-blue?style=flat-square" />
-  </a>
-</p>
-Made with ❤️ for education
-
+- [Ram Mijar](https://github.com/rammijar)
+- [Raj K.C](https://github.com/rajkc2024)
 ---
 
 ## 📝 License
