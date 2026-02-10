@@ -345,31 +345,26 @@ This project teaches:
 
 ---
 
-## 👨‍💻 Contributors
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/rammijar">
-        <img src="https://github.com/rammijar.png" width="90px" style="border-radius:50%;" alt="Ram Mijar"/>
-        <br />
-        <sub><b>Ram Mijar</b></sub>
-      </a>
-      <br />
-      <a href="https://www.rammijar.com.np/">🌐</a>
-    </td>
+    ## 👨‍💻 Contributors
 
-    <td align="center">
-      <a href="https://github.com/rajkc2024">
-        <img src="https://github.com/rajkc2024.png" width="90px" style="border-radius:50%;" alt="Raj K.C"/>
-        <br />
-        <sub><b>Raj K.C</b></sub>
-      </a>
-      <br />
-      <a href="https://www.kcraj.com.np/">🌐</a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github.com/rammijar.png" width="45" style="border-radius:50%; vertical-align:middle;" />
+  <a href="https://github.com/rammijar"><b>Ram Mijar</b></a>
+  &nbsp;
+  <a href="https://www.rammijar.com.np/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github.com/rajkc2024.png" width="45" style="border-radius:50%; vertical-align:middle;" />
+  <a href="https://github.com/rajkc2024"><b>Raj K.C</b></a>
+  &nbsp;
+  <a href="https://www.kcraj.com.np/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome" />
+  </a>
+</p>
 Made with ❤️ for education
 
 ---
