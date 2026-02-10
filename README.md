@@ -348,21 +348,19 @@ This project teaches:
 
     ## 👨‍💻 Contributors
 
-<p align="left">
-  <img src="https://github.com/rammijar.png" width="45" style="border-radius:50%; vertical-align:middle;" />
+<p>
+  <img src="https://github.com/rammijar.png" width="40" style="border-radius:50%; vertical-align:middle;" />
   <a href="https://github.com/rammijar"><b>Ram Mijar</b></a>
-  &nbsp;
   <a href="https://www.rammijar.com.np/">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-blue?style=flat-square" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github.com/rajkc2024.png" width="45" style="border-radius:50%; vertical-align:middle;" />
+<p>
+  <img src="https://github.com/rajkc2024.png" width="40" style="border-radius:50%; vertical-align:middle;" />
   <a href="https://github.com/rajkc2024"><b>Raj K.C</b></a>
-  &nbsp;
   <a href="https://www.kcraj.com.np/">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-blue?style=flat-square" />
   </a>
 </p>
 Made with ❤️ for education
